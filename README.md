@@ -11,3 +11,5 @@ This repository contains small machine learning projects that I've created eithe
 | 4. | [weather-prediction](/4.%20weather-prediction/weather-prediction.ipynb) | Model that predicts if the volleyball team will play the game based on the weather. Model uses Bayes and k-NN classifiers. | Python |
 | 5. | [spam-classification](https://github.com/RedSkittleFox/machine-learning-projects/blob/main/5.%20spam-classification/spam-classification.ipynb) | Spam classification using Naive Bayes Classifier. | Python |
 | 6. | [mandrill](https://github.com/RedSkittleFox/machine-learning-projects/blob/main/6.%20mandrill/mandrill.ipynb) | Model that detects if the message (tweet) is referring to Mandrill App or is spam. | Python |
+| 8. | [bikes](https://github.com/RedSkittleFox/machine-learning-projects/blob/main/8.%20bikes/bikes.ipynb) | Prediction of number of bike rentals based on weather conditions. | R |
+| 9. | [bank](https://github.com/RedSkittleFox/machine-learning-projects/blob/main/9.%20banks/banks.ipynb) | Classification if the person will subscribe to the bank deposit. | R |
